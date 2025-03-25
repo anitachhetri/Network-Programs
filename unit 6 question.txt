@@ -7,3 +7,5 @@ unit 6
 6.explain in detail about in socket option?
 7.write and explain showing connecting to whois server
 
+more
+
