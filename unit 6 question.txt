@@ -1,0 +1,9 @@
+unit 6
+1. what is socket  ? how do you read from server with socket 
+2.explain with appropriate example for writing to server 
+3.list and explain the basic constriuctir of socket class 
+4.write a   about socket address and proxy server
+5.how can we get infor about socket list its method and explain 
+6.explain in detail about in socket option?
+7.write and explain showing connecting to whois server
+
